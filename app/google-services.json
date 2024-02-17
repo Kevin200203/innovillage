@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "708206504217",
+    "firebase_url": "https://autoplandes-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "autoplandes",
+    "storage_bucket": "autoplandes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708206504217:android:f9800e5ded28cedda77d88",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.tomatovision.detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU0WeT5uwkiz12FZUJzKRQ8XDYKw5ourQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

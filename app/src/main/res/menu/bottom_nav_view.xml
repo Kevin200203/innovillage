@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Utama"
+        android:icon="@drawable/utama"
+        app:showAsAction="withText"
+        android:title="Utama" />
+    <item
+        android:id="@+id/Deteksi"
+        android:title="Deteksi"
+        app:showAsAction="withText"
+        android:icon="@drawable/deteksi"
+
+        />
+    <item
+        android:id="@+id/Kontrol"
+        android:title="Kontrol"
+        app:showAsAction="withText"
+        android:icon="@drawable/control"/>
+    <item
+        android:id="@+id/solusi"
+        android:title="Solusi"
+        app:showAsAction="withText"
+        android:icon="@drawable/solusi"/>
+
+</menu>
